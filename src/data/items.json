@@ -1,0 +1,67 @@
+ [
+        {
+            "id": "1",
+            "name": " Parduodamas",
+            "price": "199",
+            "imgUrl": "./imgs/1.jpg"
+        },
+        {
+            "id": "2",
+            "name": " 2",
+            "price": "299",
+            "imgUrl": "./imgs/2.jpg"
+        },
+        {
+            "id": "3",
+            "name": " 3",
+            "price": "399",
+            "imgUrl": "./imgs/3.jpg"
+        },
+        {
+            "id": "4",
+            "name": " 4",
+            "price": "499",
+            "imgUrl": "./imgs/4.jpg"
+        },
+        {
+            "id": "5",
+            "name": " 5",
+            "price": "599",
+            "imgUrl": "./imgs/5.jpg"
+        },
+        {
+            "id": "6",
+            "name": " 6",
+            "price": "699",
+            "imgUrl": "./imgs/6.jpg"
+        },
+        {
+            "id": "7",
+            "name": " 7",
+            "price": "799",
+            "imgUrl": "./imgs/7.jpg"
+        },
+        {
+            "id": "8",
+            "name": " 8",
+            "price": "899",
+            "imgUrl": "./imgs/8.jpg"
+        },
+        {
+            "id": "9",
+            "name": " 9",
+            "price": "999",
+            "imgUrl": "./imgs/9.jpg"
+        }
+    
+
+
+
+
+    ]
+
+
+
+
+
+
